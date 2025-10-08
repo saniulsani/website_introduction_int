@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Md Saniul Islam Sony", "course": "BSc in Computer Science" },
+  { "id": 2, "name": "John Doe", "course": "Cybersecurity" },
+  { "id": 3, "name": "Jane Smith", "course": "Web Development" },
+  { "id": 4, "name": "Alice Johnson", "course": "Data Science" }
+]
